@@ -1,0 +1,22 @@
+{
+  "deploy": {
+    "manually": "381.08 - 381.08 (381.08)",
+    "compiled": "389.77 - 389.77 (389.77)",
+    "percentage": "102% (absolute: 8.689999999999998)"
+  },
+  "pay": {
+    "manually": "28.68 - 28.68 (28.68)",
+    "compiled": "29.84 - 29.84 (29.84)",
+    "percentage": "104% (absolute: 1.1600000000000001)"
+  },
+  "arbitrate": {
+    "manually": "21.56 - 21.58 (21.57)",
+    "compiled": "23.14 - 24.00 (23.57)",
+    "percentage": "109% (absolute: 2)"
+  },
+  "confirmDelivery": {
+    "manually": "21.22 - 21.22 (21.22)",
+    "compiled": "22.28 - 22.28 (22.28)",
+    "percentage": "105% (absolute: 1.0600000000000023)"
+  }
+}

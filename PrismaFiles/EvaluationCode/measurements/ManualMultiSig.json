@@ -1,0 +1,230 @@
+[
+  {
+    "function": "deploy",
+    "gas": 698959
+  },
+  {
+    "function": "deploy",
+    "gas": 720418
+  },
+  {
+    "function": "deploy",
+    "gas": 741877
+  },
+  {
+    "function": "deploy",
+    "gas": 763336
+  },
+  {
+    "function": "deploy",
+    "gas": 784795
+  },
+  {
+    "function": "deploy",
+    "gas": 806254
+  },
+  {
+    "function": "deploy",
+    "gas": 827713
+  },
+  {
+    "function": "deploy",
+    "gas": 849172
+  },
+  {
+    "function": "deploy",
+    "gas": 870619
+  },
+  {
+    "function": "execute-none-2of3",
+    "gas": 68119
+  },
+  {
+    "function": "execute-one-2of3",
+    "gas": 53489
+  },
+  {
+    "function": "execute-two-2of3",
+    "gas": 53937
+  },
+  {
+    "function": "execute-short-bytes-2of3",
+    "gas": 54632
+  },
+  {
+    "function": "execute-long-bytes-2of3",
+    "gas": 55207
+  },
+  {
+    "function": "execute-coins-2of3",
+    "gas": 59875
+  },
+  {
+    "function": "execute-none-2of4",
+    "gas": 68131
+  },
+  {
+    "function": "execute-one-2of4",
+    "gas": 53477
+  },
+  {
+    "function": "execute-two-2of4",
+    "gas": 53937
+  },
+  {
+    "function": "execute-short-bytes-2of4",
+    "gas": 54620
+  },
+  {
+    "function": "execute-long-bytes-2of4",
+    "gas": 55195
+  },
+  {
+    "function": "execute-coins-2of4",
+    "gas": 59887
+  },
+  {
+    "function": "execute-none-3of4",
+    "gas": 76856
+  },
+  {
+    "function": "execute-one-3of4",
+    "gas": 62191
+  },
+  {
+    "function": "execute-two-3of4",
+    "gas": 62639
+  },
+  {
+    "function": "execute-short-bytes-3of4",
+    "gas": 63358
+  },
+  {
+    "function": "execute-long-bytes-3of4",
+    "gas": 63921
+  },
+  {
+    "function": "execute-coins-3of4",
+    "gas": 68612
+  },
+  {
+    "function": "execute-none-3of5",
+    "gas": 76844
+  },
+  {
+    "function": "execute-one-3of5",
+    "gas": 62191
+  },
+  {
+    "function": "execute-two-3of5",
+    "gas": 62651
+  },
+  {
+    "function": "execute-short-bytes-3of5",
+    "gas": 63358
+  },
+  {
+    "function": "execute-long-bytes-3of5",
+    "gas": 63921
+  },
+  {
+    "function": "execute-coins-3of5",
+    "gas": 68612
+  },
+  {
+    "function": "execute-none-4of5",
+    "gas": 85534
+  },
+  {
+    "function": "execute-one-4of5",
+    "gas": 70941
+  },
+  {
+    "function": "execute-two-4of5",
+    "gas": 71365
+  },
+  {
+    "function": "execute-short-bytes-4of5",
+    "gas": 72061
+  },
+  {
+    "function": "execute-long-bytes-4of5",
+    "gas": 72659
+  },
+  {
+    "function": "execute-coins-4of5",
+    "gas": 77326
+  },
+  {
+    "function": "execute-none-5of8",
+    "gas": 94273
+  },
+  {
+    "function": "execute-one-5of8",
+    "gas": 79667
+  },
+  {
+    "function": "execute-two-5of8",
+    "gas": 80091
+  },
+  {
+    "function": "execute-short-bytes-5of8",
+    "gas": 80811
+  },
+  {
+    "function": "execute-long-bytes-5of8",
+    "gas": 81374
+  },
+  {
+    "function": "execute-coins-5of8",
+    "gas": 86029
+  },
+  {
+    "function": "execute-none-8of8",
+    "gas": 120464
+  },
+  {
+    "function": "execute-one-8of8",
+    "gas": 105822
+  },
+  {
+    "function": "execute-two-8of8",
+    "gas": 106283
+  },
+  {
+    "function": "execute-short-bytes-8of8",
+    "gas": 106954
+  },
+  {
+    "function": "execute-long-bytes-8of8",
+    "gas": 107565
+  },
+  {
+    "function": "execute-coins-8of8",
+    "gas": 112208
+  },
+  {
+    "function": "execute-none-10of10",
+    "gas": 137929
+  },
+  {
+    "function": "execute-one-10of10",
+    "gas": 123288
+  },
+  {
+    "function": "execute-two-10of10",
+    "gas": 123749
+  },
+  {
+    "function": "execute-short-bytes-10of10",
+    "gas": 124408
+  },
+  {
+    "function": "execute-long-bytes-10of10",
+    "gas": 125007
+  },
+  {
+    "function": "execute-coins-10of10",
+    "gas": 129637
+  }
+]

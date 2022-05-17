@@ -1,0 +1,296 @@
+\documentclass{report}
+
+\usepackage{tikz}
+\usetikzlibrary{patterns}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.3}
+\usepgfplotslibrary{statistics}
+
+\begin{document}
+
+\input{measurementsResults.tex}
+\input{codeResults.tex}
+
+\begin{figure}
+	\begin{tikzpicture}
+	\tikzset{font=\tiny}
+	\begin{axis}[xbar,
+	height = 6.2cm, width = 5.3cm, bar width=4pt,
+	major y tick style = transparent,
+	xmajorgrids = true,
+	xlabel = {Gas overhead [\%]},
+	symbolic y coords={Ch, Re, Lib, CC, Hm, T$^3$, RPS, N, W, E, F, T},
+	ytick = data,
+	y tick label style = { xshift=6pt, rotate=0, anchor=east },
+	scaled x ticks = false,
+	enlarge y limits=0.05,
+	legend cell align=left,
+	legend pos=north east,
+	legend image code/.code={\draw[#1, draw=none] (-3pt,-2pt) rectangle (3pt,2pt);},
+	reverse legend,
+	xmin=-15, xmax=15, xtick={-10,-5,...,10},
+	axis y line*=left,
+	axis x line*=bottom,
+	]
+	\addplot[lightgray!60!blue, fill=lightgray!60!blue, mark=none]
+	coordinates {
+		(\varMultiSigDiffDeployRelAvg,W)
+		(\varTokenDiffDeployRelAvg,T)
+		(\varCrowdfundingDiffDeployRelAvg,F)
+		(\varEscrowDiffDeployRelAvg,E)
+		(\varTTTChannelDiffDeployRelAvg,Ch)
+		(\varNotaryDiffDeployRelAvg,N)
+		(\varHangmanDiffDeployRelAvg,Hm)
+		(\varTTTDiffDeployRelAvg,T$^3$)
+		(\varRPSDiffDeployRelAvg,RPS)
+		(\varChineseCheckersDiffDeployRelAvg,CC)
+		(\varTTTLibraryDiffDeployRelAvg,Lib)
+		(\varTTTViaLibDiffDeployRelAvg,Re)
+	};
+	\end{axis}
+	\end{tikzpicture}%
+	\vspace{-1em}
+	\caption{Gas overhead per deployment.}
+	\label{fig:eval-deployment-overhead}
+\end{figure}
+
+\begin{figure}
+	\begin{tikzpicture}
+	\tikzset{font=\tiny}
+	\begin{axis}[xbar=0pt,
+	height = 6.2cm, width = 4.5cm, bar width=4pt,
+	major y tick style = transparent,
+	xmajorgrids = true,
+	xlabel = {Gas usage [kGas]},
+	symbolic y coords={Channel, Reuse, Library, CCheckers, Hangman, TicTacToe, Rock-P-S, Notary, Wallet, Escrow, Fund, Token},
+	ytick = data,
+	y tick label style = { xshift=6pt, rotate=0, anchor=east },
+	scaled x ticks = false,
+	enlarge y limits=0.05,
+	xmin=0,
+	legend cell align=left,
+	legend pos=north east,
+	legend image code/.code={\draw[#1, draw=none] (-3pt,-2pt) rectangle (3pt,2pt);},
+	reverse legend,
+	axis y line*=left,
+	axis x line*=bottom,
+	]
+	\addplot[white!70!red, fill=white!70!red, mark=none, postaction={pattern = north west lines}]
+	coordinates {
+		(\varMultiSigManualDeployAvg,Wallet) +- (5, 5)
+		(\varTokenManualDeployAvg,Token)
+		(\varCrowdfundingManualDeployAvg,Fund)
+		(\varEscrowManualDeployAvg,Escrow)
+		(\varTTTChannelManualDeployAvg,Channel)
+		(\varNotaryManualDeployAvg,Notary)
+		(\varHangmanManualDeployAvg,Hangman)
+		(\varTTTManualDeployAvg,TicTacToe)
+		(\varRPSManualDeployAvg,Rock-P-S)
+		(\varChineseCheckersManualDeployAvg,CCheckers)
+		(\varTTTLibraryManualDeployAvg,Library)
+		(\varTTTViaLibManualDeployAvg,Reuse)
+	};
+	
+	\addplot[teal, fill=teal, mark=none]
+	coordinates {
+		(\varMultiSigCompiledDeployAvg,Wallet)
+		(\varTokenCompiledDeployAvg,Token)
+		(\varCrowdfundingCompiledDeployAvg,Fund)
+		(\varEscrowCompiledDeployAvg,Escrow)
+		(\varTTTChannelCompiledDeployAvg,Channel)
+		(\varNotaryCompiledDeployAvg,Notary)
+		(\varHangmanCompiledDeployAvg,Hangman)
+		(\varTTTCompiledDeployAvg,TicTacToe)
+		(\varRPSCompiledDeployAvg,Rock-P-S)
+		(\varChineseCheckersCompiledDeployAvg,CCheckers)
+		(\varTTTLibraryCompiledDeployAvg,Library)
+		(\varTTTViaLibCompiledDeployAvg,Reuse)
+	};
+	
+	\legend{Solidity,Prisma}
+	\end{axis}
+	\end{tikzpicture}%
+	\vspace{-1em}
+	\caption{Gas usage per deployment.}
+	\label{fig:eval-deployment-cost}
+\end{figure}%
+
+\begin{figure}
+	\begin{tikzpicture}
+	\tikzset{font=\tiny}
+	\begin{axis}[xbar=0pt,
+	height = 6.2cm, width = 4.6cm, bar width=4pt,
+	major y tick style = transparent,
+	xmajorgrids = true,
+	xlabel = {Gas usage [kGas]},
+	symbolic y coords={Ch, Re, Lib, CC, Hm, T$^3$, RPS, N, W, E, F, T},
+	ytick = data,
+	y tick label style = { xshift=6pt, rotate=0, anchor=east },
+	scaled x ticks = false,
+	enlarge y limits=0.05,
+	xmin=0,
+	legend cell align=left,
+	legend pos=north east,
+	legend image code/.code={\draw[#1, draw=none] (-3pt,-2pt) rectangle (3pt,2pt);},
+	reverse legend,
+	axis y line*=left,
+	axis x line*=bottom,
+]
+	\addplot[white!70!red, fill=white!70!red, mark=none, postaction={pattern = north west lines}]
+	coordinates {
+		(\varMultiSigManualExecutionAvg,W) +- (5, 5)
+		(\varTokenManualExecutionAvg,T)
+		(\varCrowdfundingManualExecutionAvg,F)
+		(\varEscrowManualExecutionAvg,E)
+		(\varTTTChannelManualExecutionAvg,Ch)
+		(\varNotaryManualExecutionAvg,N)
+		(\varHangmanManualExecutionAvg,Hm)
+		(\varTTTManualExecutionAvg,T$^3$)
+		(\varRPSManualExecutionAvg,RPS)
+		(\varChineseCheckersManualExecutionAvg,CC)
+		(\varTTTViaLibManualExecutionAvg,Re)
+		(0,Lib)
+	};
+	
+	\addplot[teal, fill=teal, mark=none]
+	coordinates {
+		(\varMultiSigCompiledExecutionAvg,W)
+		(\varTokenCompiledExecutionAvg,T)
+		(\varCrowdfundingCompiledExecutionAvg,F)
+		(\varEscrowCompiledExecutionAvg,E)
+		(\varTTTChannelCompiledExecutionAvg,Ch)
+		(\varNotaryCompiledExecutionAvg,N)
+		(\varHangmanCompiledExecutionAvg,Hm)
+		(\varTTTCompiledExecutionAvg,T$^3$)
+		(\varRPSCompiledExecutionAvg,RPS)
+		(\varChineseCheckersCompiledExecutionAvg,CC)
+		(\varTTTViaLibCompiledExecutionAvg,Re)
+		(0,Lib)
+	};
+	
+	\legend{Solidity,Prisma}
+	\end{axis}
+	\end{tikzpicture}
+	\vspace{-1em}
+	\caption{Gas usage per interaction.}
+	\label{fig:eval-execution-cost}
+\end{figure}%
+\begin{figure}
+	\begin{tikzpicture}
+	\tikzset{font=\tiny}
+	\begin{axis}[
+	height = 6.2cm, width = 5.3cm,
+	xmin=-30, xmax=30, xtick={-20,-10,...,30},
+	boxplot/draw direction=x,
+	scaled x ticks = false,
+	xmajorgrids = true,
+	xlabel style={align=center},
+	xlabel={Gas overhead [\%]},
+	boxplot={
+		draw position={0.5 + \plotnumofactualtype},
+		box extend=0.3
+	},
+	cycle list={{black,fill=lightgray!60!blue,mark=none},{black,fill=lightgray!60!blue,mark=none}},
+	ymin=0, ymax=12, ytick={0,1,2,...,12},
+	y tick label as interval,
+	yticklabels={Ch, Re, Lib, CC, Hm, T$^3$, RPS, N, W, E, F, T},
+	y tick label style = { xshift=1pt, rotate = 0, anchor = east },
+	ytick style={draw=none},
+	name=boundary,
+	axis y line*=left,
+	axis x line*=bottom,
+]
+
+	\addplot+[mark = *, mark options = {draw=lightgray!60!blue, fill=lightgray!60!blue},
+	boxplot prepared={
+		upper whisker=\varTTTChannelDiffExecRelBoxUW,
+		lower whisker=\varTTTChannelDiffExecRelBoxLW
+	},
+	] coordinates {(0,\varTTTChannelDiffExecRelAvg)};
+	
+	\addplot+[mark = *, mark options = {draw=lightgray!60!blue, fill=lightgray!60!blue},
+	boxplot prepared={
+		upper whisker=\varTTTViaLibDiffExecRelBoxUW,
+		lower whisker=\varTTTViaLibDiffExecRelBoxLW
+	},
+	] coordinates {(0,\varTTTViaLibDiffExecRelAvg)};
+	
+	\addplot+[mark = *, mark options = {draw=lightgray!60!blue, fill=lightgray!60!blue},
+	boxplot prepared={
+		upper whisker=0,
+		lower whisker=0
+	},
+	] coordinates {(0,0)};
+	
+	\addplot+[mark = *, mark options = {draw=lightgray!60!blue, fill=lightgray!60!blue},
+	boxplot prepared={
+		upper whisker=\varChineseCheckersDiffExecRelBoxUW,
+		lower whisker=\varChineseCheckersDiffExecRelBoxLW
+	},
+	] coordinates {(0,\varChineseCheckersDiffExecRelAvg)};
+
+	\addplot+[mark = *, mark options = {draw=lightgray!60!blue, fill=lightgray!60!blue},
+	boxplot prepared={
+		upper whisker=\varHangmanDiffExecRelBoxUW,
+		lower whisker=\varHangmanDiffExecRelBoxLW
+	},
+	] coordinates {(0,\varHangmanDiffExecRelAvg)};
+
+	\addplot+[mark = *, mark options = {draw=lightgray!60!blue, fill=lightgray!60!blue},
+	boxplot prepared={
+		upper whisker=\varTTTDiffExecRelBoxUW,
+		lower whisker=\varTTTDiffExecRelBoxLW
+	},
+	] coordinates {(0,\varTTTDiffExecRelAvg)};
+
+	\addplot+[mark = *, mark options = {draw=lightgray!60!blue, fill=lightgray!60!blue},
+	boxplot prepared={
+		upper whisker=\varRPSDiffExecRelBoxUW,
+		lower whisker=\varRPSDiffExecRelBoxLW
+	},
+	] coordinates {(0,\varRPSDiffExecRelAvg)};
+
+	\addplot+[mark = *, mark options = {draw=lightgray!60!blue, fill=lightgray!60!blue},
+	boxplot prepared={
+		upper whisker=\varNotaryDiffExecRelBoxUW,
+		lower whisker=\varNotaryDiffExecRelBoxLW
+	},
+	] coordinates {(0,\varNotaryDiffExecRelAvg)};
+	
+	\addplot+[mark = *, mark options = {draw=lightgray!60!blue, fill=lightgray!60!blue},
+	boxplot prepared={
+		upper whisker=\varMultiSigDiffExecRelBoxUW,
+		lower whisker=\varMultiSigDiffExecRelBoxLW
+	},
+	] coordinates {(0,\varMultiSigDiffExecRelAvg)};
+
+	\addplot+[mark = *, mark options = {draw=lightgray!60!blue, fill=lightgray!60!blue},
+	boxplot prepared={
+		upper whisker=\varEscrowDiffExecRelBoxUW,
+		lower whisker=\varEscrowDiffExecRelBoxLW
+	},
+	] coordinates {(0,\varEscrowDiffExecRelAvg)};
+	
+	\addplot+[mark = *, mark options = {draw=lightgray!60!blue, fill=lightgray!60!blue},
+	boxplot prepared={
+		upper whisker=\varCrowdfundingDiffExecRelBoxUW,
+		lower whisker=\varCrowdfundingDiffExecRelBoxLW
+	},
+	] coordinates {(0,\varCrowdfundingDiffExecRelAvg)};
+
+	\addplot+[mark = *, mark options = {draw=lightgray!60!blue, fill=lightgray!60!blue},
+	boxplot prepared={
+		upper whisker=\varTokenDiffExecRelBoxUW,
+		lower whisker=\varTokenDiffExecRelBoxLW
+	},
+	] coordinates {(0,\varTokenDiffExecRelAvg)};
+
+	\end{axis}
+
+	\end{tikzpicture}%
+	\vspace{-1em}
+	\caption{Gas overhead per interaction.}
+	\label{fig:eval-execution-overhead}
+\end{figure}
+\end{document}
+

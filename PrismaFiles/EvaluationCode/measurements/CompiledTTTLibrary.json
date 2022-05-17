@@ -1,0 +1,10 @@
+[
+  {
+    "function": "deploy",
+    "gas": 495075
+  },
+  {
+    "function": "exec",
+    "gas": 0
+  }
+]

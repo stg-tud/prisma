@@ -1,0 +1,12 @@
+{
+  "deploy": {
+    "manually": "494.44 - 494.44 (494.44)",
+    "compiled": "495.07 - 495.07 (495.07)",
+    "percentage": "100% (absolute: 0.6299999999999955)"
+  },
+  "exec": {
+    "manually": "0.00 - 0.00 (0.00)",
+    "compiled": "0.00 - 0.00 (0.00)",
+    "percentage": "NaN% (absolute: 0)"
+  }
+}

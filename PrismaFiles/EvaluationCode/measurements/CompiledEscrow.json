@@ -1,0 +1,30 @@
+[
+  {
+    "function": "deploy",
+    "gas": 389773
+  },
+  {
+    "function": "pay",
+    "gas": 29836
+  },
+  {
+    "function": "confirmDelivery",
+    "gas": 22282
+  },
+  {
+    "function": "pay",
+    "gas": 29836
+  },
+  {
+    "function": "arbitrate",
+    "gas": 23143
+  },
+  {
+    "function": "pay",
+    "gas": 29836
+  },
+  {
+    "function": "arbitrate",
+    "gas": 24004
+  }
+]

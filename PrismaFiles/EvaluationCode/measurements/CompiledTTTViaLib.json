@@ -1,0 +1,102 @@
+[
+  {
+    "function": "deploy",
+    "gas": 1258355
+  },
+  {
+    "function": "move",
+    "gas": 94438
+  },
+  {
+    "function": "move",
+    "gas": 80024
+  },
+  {
+    "function": "move",
+    "gas": 64550
+  },
+  {
+    "function": "move",
+    "gas": 64550
+  },
+  {
+    "function": "move",
+    "gas": 64450
+  },
+  {
+    "function": "move",
+    "gas": 80286
+  },
+  {
+    "function": "move",
+    "gas": 52928
+  },
+  {
+    "function": "move",
+    "gas": 94438
+  },
+  {
+    "function": "move",
+    "gas": 80024
+  },
+  {
+    "function": "move",
+    "gas": 64550
+  },
+  {
+    "function": "move",
+    "gas": 64550
+  },
+  {
+    "function": "move",
+    "gas": 64450
+  },
+  {
+    "function": "move",
+    "gas": 80286
+  },
+  {
+    "function": "move",
+    "gas": 65286
+  },
+  {
+    "function": "move",
+    "gas": 53040
+  },
+  {
+    "function": "move",
+    "gas": 94438
+  },
+  {
+    "function": "move",
+    "gas": 80024
+  },
+  {
+    "function": "move",
+    "gas": 64550
+  },
+  {
+    "function": "move",
+    "gas": 64550
+  },
+  {
+    "function": "move",
+    "gas": 64450
+  },
+  {
+    "function": "move",
+    "gas": 80286
+  },
+  {
+    "function": "move",
+    "gas": 65286
+  },
+  {
+    "function": "move",
+    "gas": 65174
+  },
+  {
+    "function": "move",
+    "gas": 54701
+  }
+]

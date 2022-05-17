@@ -1,0 +1,110 @@
+{
+  "TTTChannel": {
+    "prismaLoC": 177,
+    "solidityLoC": 56,
+    "jsLoC": 177,
+    "diff": 56,
+    "perc": 0.759656652360515,
+    "tierJumps": 9,
+    "interactionPerClientLine": 0.05084745762711865
+  },
+  "Token": {
+    "prismaLoC": 79,
+    "solidityLoC": 48,
+    "jsLoC": 50,
+    "diff": 19,
+    "perc": 0.8061224489795918,
+    "tierJumps": 4,
+    "interactionPerClientLine": 0.08
+  },
+  "Crowdfunding": {
+    "prismaLoC": 59,
+    "solidityLoC": 27,
+    "jsLoC": 63,
+    "diff": 31,
+    "perc": 0.6555555555555556,
+    "tierJumps": 11,
+    "interactionPerClientLine": 0.1746031746031746
+  },
+  "Escrow": {
+    "prismaLoC": 63,
+    "solidityLoC": 33,
+    "jsLoC": 56,
+    "diff": 26,
+    "perc": 0.7078651685393258,
+    "tierJumps": 9,
+    "interactionPerClientLine": 0.16071428571428573
+  },
+  "Notary": {
+    "prismaLoC": 32,
+    "solidityLoC": 16,
+    "jsLoC": 36,
+    "diff": 20,
+    "perc": 0.6153846153846154,
+    "tierJumps": 3,
+    "interactionPerClientLine": 0.08333333333333333
+  },
+  "Hangman": {
+    "prismaLoC": 119,
+    "solidityLoC": 86,
+    "jsLoC": 83,
+    "diff": 50,
+    "perc": 0.7041420118343196,
+    "tierJumps": 15,
+    "interactionPerClientLine": 0.18072289156626506
+  },
+  "TTT": {
+    "prismaLoC": 61,
+    "solidityLoC": 31,
+    "jsLoC": 52,
+    "diff": 22,
+    "perc": 0.7349397590361446,
+    "tierJumps": 5,
+    "interactionPerClientLine": 0.09615384615384616
+  },
+  "RPS": {
+    "prismaLoC": 79,
+    "solidityLoC": 41,
+    "jsLoC": 77,
+    "diff": 39,
+    "perc": 0.6694915254237288,
+    "tierJumps": 12,
+    "interactionPerClientLine": 0.15584415584415584
+  },
+  "MultiSig": {
+    "prismaLoC": 76,
+    "solidityLoC": 41,
+    "jsLoC": 52,
+    "diff": 17,
+    "perc": 0.8172043010752689,
+    "tierJumps": 3,
+    "interactionPerClientLine": 0.057692307692307696
+  },
+  "TTTLibrary": {
+    "prismaLoC": 16,
+    "solidityLoC": 15,
+    "jsLoC": 0,
+    "diff": -1,
+    "perc": 1.0666666666666667,
+    "tierJumps": 0,
+    "interactionPerClientLine": null
+  },
+  "TTTViaLib": {
+    "prismaLoC": 53,
+    "solidityLoC": 29,
+    "jsLoC": 52,
+    "diff": 28,
+    "perc": 0.654320987654321,
+    "tierJumps": 5,
+    "interactionPerClientLine": 0.09615384615384616
+  },
+  "ChineseCheckers": {
+    "prismaLoC": 166,
+    "solidityLoC": 141,
+    "jsLoC": 47,
+    "diff": 22,
+    "perc": 0.8829787234042553,
+    "tierJumps": 4,
+    "interactionPerClientLine": 0.0851063829787234
+  }
+}

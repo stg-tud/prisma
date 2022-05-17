@@ -1,0 +1,528 @@
+[
+  {
+    "function": "deploy",
+    "gas": 1086580
+  },
+  {
+    "function": "commit",
+    "gas": 103573
+  },
+  {
+    "function": "guess",
+    "gas": 51990
+  },
+  {
+    "function": "respond",
+    "occurences": 2,
+    "cheat": false,
+    "gas": 91722
+  },
+  {
+    "function": "guess",
+    "gas": 36940
+  },
+  {
+    "function": "respond",
+    "occurences": 0,
+    "cheat": false,
+    "gas": 44636
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 1,
+    "cheat": false,
+    "gas": 55361
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 0,
+    "cheat": false,
+    "gas": 44686
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 1,
+    "cheat": false,
+    "gas": 27286
+  },
+  {
+    "function": "commit",
+    "gas": 113977
+  },
+  {
+    "function": "guess",
+    "gas": 51990
+  },
+  {
+    "function": "respond",
+    "occurences": 0,
+    "cheat": false,
+    "gas": 59686
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 0,
+    "cheat": false,
+    "gas": 44686
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 0,
+    "cheat": false,
+    "gas": 44686
+  },
+  {
+    "function": "guess",
+    "gas": 36940
+  },
+  {
+    "function": "respond",
+    "occurences": 2,
+    "cheat": false,
+    "gas": 76784
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 0,
+    "cheat": false,
+    "gas": 44686
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 2,
+    "cheat": false,
+    "gas": 61834
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 0,
+    "cheat": false,
+    "gas": 29727
+  },
+  {
+    "function": "open",
+    "gas": 46195
+  },
+  {
+    "function": "commit",
+    "gas": 113977
+  },
+  {
+    "function": "guess",
+    "gas": 51990
+  },
+  {
+    "function": "respond",
+    "occurences": 0,
+    "cheat": true,
+    "gas": 59686
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 0,
+    "cheat": true,
+    "gas": 44686
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 0,
+    "cheat": true,
+    "gas": 44686
+  },
+  {
+    "function": "guess",
+    "gas": 36940
+  },
+  {
+    "function": "respond",
+    "occurences": 1,
+    "cheat": true,
+    "gas": 70311
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 0,
+    "cheat": true,
+    "gas": 44686
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 1,
+    "cheat": true,
+    "gas": 55361
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 0,
+    "cheat": true,
+    "gas": 29727
+  },
+  {
+    "function": "open",
+    "gas": 29248
+  },
+  {
+    "function": "commit",
+    "gas": 155593
+  },
+  {
+    "function": "guess",
+    "gas": 51990
+  },
+  {
+    "function": "respond",
+    "occurences": 1,
+    "cheat": false,
+    "gas": 85249
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 2,
+    "cheat": false,
+    "gas": 61834
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 2,
+    "cheat": false,
+    "gas": 61834
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 1,
+    "cheat": false,
+    "gas": 55361
+  },
+  {
+    "function": "guess",
+    "gas": 36940
+  },
+  {
+    "function": "respond",
+    "occurences": 1,
+    "cheat": false,
+    "gas": 55311
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 2,
+    "cheat": false,
+    "gas": 61834
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 2,
+    "cheat": false,
+    "gas": 61834
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 1,
+    "cheat": false,
+    "gas": 55361
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 1,
+    "cheat": false,
+    "gas": 55361
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 1,
+    "cheat": false,
+    "gas": 55361
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 2,
+    "cheat": false,
+    "gas": 61834
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 1,
+    "cheat": false,
+    "gas": 55361
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 1,
+    "cheat": false,
+    "gas": 55361
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 1,
+    "cheat": false,
+    "gas": 27286
+  },
+  {
+    "function": "commit",
+    "gas": 224903
+  },
+  {
+    "function": "guess",
+    "gas": 51940
+  },
+  {
+    "function": "respond",
+    "occurences": 2,
+    "cheat": false,
+    "gas": 91784
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 1,
+    "cheat": false,
+    "gas": 70261
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 1,
+    "cheat": false,
+    "gas": 55361
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 1,
+    "cheat": false,
+    "gas": 55361
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 5,
+    "cheat": false,
+    "gas": 85453
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 1,
+    "cheat": false,
+    "gas": 55361
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 2,
+    "cheat": false,
+    "gas": 61834
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 0,
+    "cheat": false,
+    "gas": 44686
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 2,
+    "cheat": false,
+    "gas": 61834
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 0,
+    "cheat": false,
+    "gas": 44686
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 0,
+    "cheat": false,
+    "gas": 44686
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 3,
+    "cheat": false,
+    "gas": 68307
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 0,
+    "cheat": false,
+    "gas": 44686
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 4,
+    "cheat": false,
+    "gas": 74780
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 5,
+    "cheat": false,
+    "gas": 85453
+  },
+  {
+    "function": "guess",
+    "gas": 36990
+  },
+  {
+    "function": "respond",
+    "occurences": 0,
+    "cheat": false,
+    "gas": 29727
+  },
+  {
+    "function": "open",
+    "gas": 183882
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "deploy": {
+    "manually": "464.82 - 464.82 (464.82)",
+    "compiled": "466.34 - 466.34 (466.34)",
+    "percentage": "100% (absolute: 1.5199999999999818)"
+  },
+  "transfer": {
+    "manually": "29.57 - 51.05 (34.46)",
+    "compiled": "29.64 - 51.12 (34.54)",
+    "percentage": "100% (absolute: 0.0799999999999983)"
+  },
+  "approve": {
+    "manually": "44.02 - 44.04 (44.03)",
+    "compiled": "44.05 - 44.06 (44.06)",
+    "percentage": "100% (absolute: 0.030000000000001137)"
+  },
+  "transferFrom": {
+    "manually": "29.57 - 29.58 (29.58)",
+    "compiled": "29.64 - 29.65 (29.65)",
+    "percentage": "100% (absolute: 0.07000000000000028)"
+  }
+}

@@ -1,0 +1,12 @@
+require('child_process').fork('interpretTTT.js');
+require('child_process').fork('interpretCrowdfunding.js');
+require('child_process').fork('interpretChannel.js');
+require('child_process').fork('interpretRPS.js');
+require('child_process').fork('interpretMultiSig.js');
+require('child_process').fork('interpretEscrow.js');
+require('child_process').fork('interpretHangman.js');
+require('child_process').fork('interpretToken.js');
+require('child_process').fork('interpretNotary.js');
+require('child_process').fork('interpretTTTLibrary.js');
+require('child_process').fork('interpretTTTViaLib.js');
+require('child_process').fork('interpretChineseCheckers.js');

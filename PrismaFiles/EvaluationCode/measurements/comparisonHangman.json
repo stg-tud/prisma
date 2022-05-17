@@ -1,0 +1,32 @@
+{
+  "deploy": {
+    "manually": "1086.58 - 1086.58 (1086.58)",
+    "compiled": "1089.69 - 1089.69 (1089.69)",
+    "percentage": "100% (absolute: 3.1100000000001273)"
+  },
+  "init": {
+    "manually": "NaN - NaN (NaN)",
+    "compiled": "NaN - NaN (NaN)",
+    "percentage": "NaN% (absolute: NaN)"
+  },
+  "commit": {
+    "manually": "103.57 - 224.90 (142.41)",
+    "compiled": "105.48 - 226.67 (144.27)",
+    "percentage": "101% (absolute: 1.8600000000000136)"
+  },
+  "guess": {
+    "manually": "36.94 - 51.99 (38.52)",
+    "compiled": "36.94 - 51.99 (38.52)",
+    "percentage": "100% (absolute: 0)"
+  },
+  "respond": {
+    "manually": "27.29 - 91.78 (56.29)",
+    "compiled": "28.29 - 92.30 (56.72)",
+    "percentage": "101% (absolute: 0.4299999999999997)"
+  },
+  "open": {
+    "manually": "29.25 - 183.88 (86.44)",
+    "compiled": "35.71 - 172.35 (84.32)",
+    "percentage": "98% (absolute: -2.1200000000000045)"
+  }
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "function": "deploy",
+    "gas": 1639616
+  },
+  {
+    "function": "dispute-1",
+    "gas": 312901
+  },
+  {
+    "function": "dispute-2",
+    "gas": 243641
+  },
+  {
+    "function": "move",
+    "gas": 72167
+  },
+  {
+    "function": "move",
+    "gas": 75628
+  },
+  {
+    "function": "move",
+    "gas": 48244
+  },
+  {
+    "function": "dispute-1",
+    "gas": 312913
+  },
+  {
+    "function": "dispute-2",
+    "gas": 243653
+  },
+  {
+    "function": "move",
+    "gas": 88003
+  },
+  {
+    "function": "move",
+    "gas": 60135
+  },
+  {
+    "function": "move",
+    "gas": 48356
+  },
+  {
+    "function": "dispute-1",
+    "gas": 312925
+  },
+  {
+    "function": "dispute-2",
+    "gas": 258689
+  },
+  {
+    "function": "move",
+    "gas": 72510
+  },
+  {
+    "function": "move",
+    "gas": 60516
+  },
+  {
+    "function": "move",
+    "gas": 49550
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "function": "deploy",
+    "gas": 762849
+  },
+  {
+    "function": "move",
+    "gas": 73533
+  },
+  {
+    "function": "move",
+    "gas": 62380
+  },
+  {
+    "function": "move",
+    "gas": 43745
+  },
+  {
+    "function": "move",
+    "gas": 43745
+  },
+  {
+    "function": "move",
+    "gas": 43545
+  },
+  {
+    "function": "move",
+    "gas": 64002
+  },
+  {
+    "function": "move",
+    "gas": 43582
+  },
+  {
+    "function": "move",
+    "gas": 73533
+  },
+  {
+    "function": "move",
+    "gas": 62380
+  },
+  {
+    "function": "move",
+    "gas": 43745
+  },
+  {
+    "function": "move",
+    "gas": 43745
+  },
+  {
+    "function": "move",
+    "gas": 43545
+  },
+  {
+    "function": "move",
+    "gas": 64002
+  },
+  {
+    "function": "move",
+    "gas": 45656
+  },
+  {
+    "function": "move",
+    "gas": 43894
+  },
+  {
+    "function": "move",
+    "gas": 73533
+  },
+  {
+    "function": "move",
+    "gas": 62380
+  },
+  {
+    "function": "move",
+    "gas": 43745
+  },
+  {
+    "function": "move",
+    "gas": 43745
+  },
+  {
+    "function": "move",
+    "gas": 43545
+  },
+  {
+    "function": "move",
+    "gas": 64002
+  },
+  {
+    "function": "move",
+    "gas": 45656
+  },
+  {
+    "function": "move",
+    "gas": 48615
+  },
+  {
+    "function": "move",
+    "gas": 47380
+  }
+]

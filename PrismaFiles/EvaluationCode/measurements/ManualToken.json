@@ -1,0 +1,1158 @@
+[
+  {
+    "function": "deploy",
+    "gas": 464816
+  },
+  {
+    "function": "transfer",
+    "gas": 51036
+  },
+  {
+    "function": "transfer",
+    "gas": 51036
+  },
+  {
+    "function": "transfer",
+    "gas": 51036
+  },
+  {
+    "function": "transfer",
+    "gas": 51036
+  },
+  {
+    "function": "transfer",
+    "gas": 51036
+  },
+  {
+    "function": "transfer",
+    "gas": 51036
+  },
+  {
+    "function": "transfer",
+    "gas": 51036
+  },
+  {
+    "function": "transfer",
+    "gas": 51036
+  },
+  {
+    "function": "transfer",
+    "gas": 51024
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36024
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36024
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36024
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36024
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36024
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36024
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36024
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36024
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36024
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 36036
+  },
+  {
+    "function": "transfer",
+    "gas": 51048
+  },
+  {
+    "function": "transfer",
+    "gas": 51048
+  },
+  {
+    "function": "transfer",
+    "gas": 51048
+  },
+  {
+    "function": "transfer",
+    "gas": 51048
+  },
+  {
+    "function": "transfer",
+    "gas": 51048
+  },
+  {
+    "function": "transfer",
+    "gas": 51048
+  },
+  {
+    "function": "transfer",
+    "gas": 51048
+  },
+  {
+    "function": "transfer",
+    "gas": 51048
+  },
+  {
+    "function": "transfer",
+    "gas": 51036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44024
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44024
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44024
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44024
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44024
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44024
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44024
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44024
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44024
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "approve",
+    "gas": 44036
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29566
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29566
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29566
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29566
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29566
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29566
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29566
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29566
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29566
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29566
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29566
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29566
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29566
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29566
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29566
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29566
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29566
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29578
+  },
+  {
+    "function": "transferFrom",
+    "gas": 29566
+  }
+]

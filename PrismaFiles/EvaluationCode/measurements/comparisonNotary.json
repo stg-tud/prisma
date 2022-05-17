@@ -1,0 +1,12 @@
+{
+  "deploy": {
+    "manually": "314.38 - 314.38 (314.38)",
+    "compiled": "314.38 - 314.38 (314.38)",
+    "percentage": "100% (absolute: 0)"
+  },
+  "submit": {
+    "manually": "65.25 - 166.85 (120.08)",
+    "compiled": "65.25 - 166.82 (120.08)",
+    "percentage": "100% (absolute: 0)"
+  }
+}
